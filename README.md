@@ -9,7 +9,7 @@ git clone https://github.com/I2rys/rbotm
 
 NpmJS:
 ```
-npm i request-async
+npm i rbotm
 ```
 
 ## Usage
