@@ -1,0 +1,32 @@
+{
+    "name": "rbotm",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "jest"
+    },
+    "jest": {
+      "collectCoverage": true
+    },
+    "description": "Revolt server channel message sender via bot.",
+    "main": "index.js",
+    "directories": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/I2rys/rbotm.git"
+    },
+    "keywords": [
+      "message",
+      "sender",
+      "revolt",
+      "bot"
+    ],
+    "author": "I2rys",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/I2rys/rbotm/issues"
+    },
+    "homepage": "https://github.com/I2rys/rbotm#readme"
+  }
+  
